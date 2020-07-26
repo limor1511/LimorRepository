@@ -1,3 +1,4 @@
 # LimorRepository
 Mystore
-That is an automation Tests for my store web site 
+An automation Tests for my store web site 
+written by Limor Hackmon
